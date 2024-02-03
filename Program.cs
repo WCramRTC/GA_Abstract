@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // new Person now throws an error
+            Person person = new Person("John Doe", 12345);
         }
     }
 }
