@@ -58,8 +58,6 @@ In summary, the `abstract` keyword in C# is used to create abstract classes that
 
 ## Requirements
 
-Certainly, here are the requirements for the assignment with the project name "GA_AbstractClass_YourName," based on the rubric:
-
 **Project Setup: (12 points)**
 1. Create a new C# project named "GA_AbstractClass."
 2. Ensure the project setup follows the required naming convention and includes comments with your name and the current date.
