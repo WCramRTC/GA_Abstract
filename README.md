@@ -90,7 +90,7 @@ In summary, the `abstract` keyword in C# is used to create abstract classes that
 These requirements are based on the rubric and specify the necessary tasks for the assignment with the project name "GA_AbstractClass."
 
 ---
-### Business Case ( A real world example of why would implement an Abstract class )
+### Business Case ( A real world example of why we would implement an Abstract class )
 
 1. **Modeling School Personnel**: In a real-world school or educational institution, there are different types of individuals, each with their own specific roles, responsibilities, and attributes. These individuals include students, professors, and faculty members.
     
